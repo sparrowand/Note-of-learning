@@ -1,0 +1,628 @@
+{
+  "main": {
+    "id": "a61ab2790f683ba5",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcc839f8720a9885",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16b6bb5ab70fae24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "仓库/调度.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "调度"
+            }
+          },
+          {
+            "id": "2125f71af4b858c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "step1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "step1"
+            }
+          },
+          {
+            "id": "da2b5ceb8c3af4ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "step2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "step2"
+            }
+          },
+          {
+            "id": "f89f9bbeafd0de35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "step3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "step3"
+            }
+          },
+          {
+            "id": "bcd6d2d922e65909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "step5-7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "step5-7"
+            }
+          },
+          {
+            "id": "a0ac2a3cc95c4a3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "step8-12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "step8-12"
+            }
+          },
+          {
+            "id": "88092c18e1b8f35f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "仓库/调度.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "调度"
+            }
+          },
+          {
+            "id": "360c6938c735595e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "仓库/调度.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "调度"
+            }
+          },
+          {
+            "id": "3d98985cbbd0faac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "仓库/BOL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BOL"
+            }
+          },
+          {
+            "id": "7fa12ed5df723c7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "仓库/调度.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "调度"
+            }
+          },
+          {
+            "id": "f9b8ac296cd04899",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "仓库/调度.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "调度"
+            }
+          },
+          {
+            "id": "7a9ed5800b25145d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "仓库/码头调度.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "码头调度"
+            }
+          },
+          {
+            "id": "5d13dbd54487acf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "仓库/码头调度.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "码头调度"
+            }
+          },
+          {
+            "id": "c1ae9d9ee3b24245",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "仓库/货物.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "货物"
+            }
+          },
+          {
+            "id": "1aba87fc1a00d887",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "仓库/仓库.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "仓库"
+            }
+          },
+          {
+            "id": "b66533610dcb8be6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "仓库/BOL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BOL"
+            }
+          },
+          {
+            "id": "79f83e3513f350a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "仓库/流程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "流程"
+            }
+          },
+          {
+            "id": "5f18bd3ce2b5a270",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Agent Skill.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agent Skill"
+            }
+          },
+          {
+            "id": "3e73962266124e2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/中转站.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "中转站"
+            }
+          },
+          {
+            "id": "a6d4b9fc89f540ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/使用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "使用"
+            }
+          },
+          {
+            "id": "002b7c34c0e1b012",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/使用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "使用"
+            }
+          },
+          {
+            "id": "55c707708b0371ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/使用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "使用"
+            }
+          },
+          {
+            "id": "a8c19a5db4952250",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/使用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "使用"
+            }
+          },
+          {
+            "id": "a38952b283a7307e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "仓库/长途调度.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "长途调度"
+            }
+          },
+          {
+            "id": "262a6dd9fe6a3a6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "仓库/BOL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BOL"
+            }
+          },
+          {
+            "id": "108e4e0752efadc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "流程box.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "流程box"
+            }
+          },
+          {
+            "id": "0c48025196c64679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "仓库/BOL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BOL"
+            }
+          },
+          {
+            "id": "57a95699f659d1a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "仓库/盘点.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "盘点"
+            }
+          },
+          {
+            "id": "542d7d3b35c5ddf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 28
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cdebc81fec5e1522",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4c8667de8a4fa2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff2e261a7d226dcf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "17fff80185525b4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8cd9700546bfcf60",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f6e566be1841acdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e4a0d0faab1b284",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c22f0a0e9785b7d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "仓库/拆柜.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 拆柜"
+            }
+          },
+          {
+            "id": "c0a940d7e93cf510",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "仓库/调度.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "调度 的出链列表"
+            }
+          },
+          {
+            "id": "9f3fe0ad5d1d72ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a1af19cef286489d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "a5df6dde38b7a0dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "仓库/调度.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "调度 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "542d7d3b35c5ddf2",
+  "lastOpenFiles": [
+    "assets/images/Untitled.base",
+    "assets/images/Pasted image 20260723120924.png",
+    "README.md",
+    "仓库/调度.md",
+    "assets/images/Pasted image 20260722154158.png",
+    "Github/代码规范.md",
+    "assets/images",
+    "assets",
+    "AI/Agent Skill.md",
+    "流程box.md",
+    "仓库/BOL.md",
+    "仓库/进入方法.md",
+    "仓库/长途调度.md",
+    "THO项目/成T 第四周期 九尾.md",
+    "工作日志",
+    "Github/提交合并.md",
+    "THO项目",
+    "仓库/盘点.md",
+    "AI/蒸馏.md",
+    "AI/插件.md",
+    "AI/GIT管理.md",
+    "assets/images/Pasted image 20260722173213.png",
+    "assets/images/Pasted image 20260723170028.png",
+    "Github/Git.md",
+    "Github",
+    "AI/使用.md",
+    "AI/中转站.md",
+    "仓库/货运提单.md",
+    "仓库/货物.md",
+    "仓库/流程.md",
+    "仓库/Fulfillment.md",
+    "AI/Skills.md",
+    "仓库/仓库.md",
+    "仓库/码头调度.md",
+    "仓库/Port.md",
+    "assets/images/Pasted image 20260722173425.png",
+    "assets/images/Pasted image 20260722171627.png",
+    "assets/images/Pasted image 20260722171532.png",
+    "assets/images/Pasted image 20260722171046.png",
+    "assets/images/Pasted image 20260722170252.png",
+    "assets/images/Pasted image 20260722170125.png",
+    "算法",
+    "AI",
+    "仓库"
+  ]
+}
